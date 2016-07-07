@@ -4,11 +4,17 @@
   <description>
 		Launch files for Summit XL simulation.
 	</description>
-  <maintainer email="info@robotnik.es">Robotnik</maintainer>
+  <maintainer email="cvillar@robotnik.es">Carlos Villar</maintainer>
+  <maintainer email="rguzman@robotnik.es">Roberto Guzman</maintainer>
+  <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
 
   <license>BSD</license>
 
-  <author email="info@robotnik.es">Robotnik</author>
+  <url type="website">http://wiki.ros.org/summit_x_sim_bringup</url>
+  <url type="repository">https://github.com/RobotnikAutomation/summit_x_sim</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/summit_x_sim/issues</url>
+
+  <author email="rguzman@robotnik.es">Roberto Guzman</author>
   
   <buildtool_depend>catkin</buildtool_depend>
 

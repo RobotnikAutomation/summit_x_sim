@@ -11,8 +11,6 @@ find_package(catkin REQUIRED COMPONENTS
     )
 
 catkin_package(
-#  INCLUDE_DIRS include
-#  LIBRARIES summit_xl_robot_control
   CATKIN_DEPENDS 
     nav_msgs 
     robotnik_msgs
@@ -20,13 +18,11 @@ catkin_package(
     sensor_msgs 
     geometry_msgs 
     tf
-#  DEPENDS system_lib
 )
 
 include_directories(
   ${catkin_INCLUDE_DIRS}
 )
-## Declare a cpp executable
 add_executable(summit_x_robot_control src/summit_xl_robot_control.cpp)
 add_executable(summit_x_robot_control_vrep src/summit_xl_robot_control_vrep.cpp)
 
