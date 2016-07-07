@@ -19,6 +19,11 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>roslaunch</build_depend>
+  <build_depend>gazebo_ros</build_depend>
+  <build_depend>summit_xl_control</build_depend>  
+  <build_depend>summit_xl_description</build_depend>
+  <build_depend>summit_xl_pad</build_depend>
+  <build_depend>twist_mux</build_depend>  
   <run_depend>gazebo_ros</run_depend>
   <run_depend>summit_xl_control</run_depend>  
   <run_depend>summit_xl_description</run_depend>
