@@ -6,9 +6,17 @@
 		This package contains the launch files that load the required controller interfaces for simulation in Gazebo.
   </description>
 
-  <maintainer email="info@robotnik.es">Robotnik</maintainer>
+  <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
+  <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
+  <maintainer email="cvillar@robotnik.es">Carlos Villar</maintainer>
+
 
   <license>BSD</license>
+
+
+  <url type="website">https://github.com/RobotnikAutomation/summit_x_control</url> 
+  <url type="repository">https://github.com/RobotnikAutomation/summit_x_common</url>
+  <url type="bugtracker">https://github.com/RobotnikAutomation/summit_x_common/issues</url>
   
   <buildtool_depend>catkin</buildtool_depend>
   
