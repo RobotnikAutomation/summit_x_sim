@@ -2,8 +2,8 @@
 Changelog for package summit_x_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2016-07-11)
+------------------
 * modified dependencies
 * Contributors: carlos3dx
 
