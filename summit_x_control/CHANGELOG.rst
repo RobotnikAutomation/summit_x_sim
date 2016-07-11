@@ -2,8 +2,8 @@
 Changelog for package summit_x_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.3 (2016-07-11)
+------------------
 * modified CMakelists and package.xml
 * Contributors: carlos3dx
 
