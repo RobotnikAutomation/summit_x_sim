@@ -19,7 +19,6 @@
   <url type="bugtracker">https://github.com/RobotnikAutomation/summit_x_common/issues</url>
   
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>roslaunch</build_depend>
   <build_depend>ros_controllers</build_depend>
   <build_depend>ros_control</build_depend>
   <build_depend>robot_state_publisher</build_depend>

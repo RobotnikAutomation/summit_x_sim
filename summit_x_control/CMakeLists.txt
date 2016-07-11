@@ -3,12 +3,6 @@ project(summit_x_control)
 
 
 find_package(catkin REQUIRED COMPONENTS 
-	roslaunch 
-	summit_xl_pad 
-	summit_x_description
-	ros_controllers
-	ros_control
-	robot_state_publisher
 )
 
 catkin_package()
