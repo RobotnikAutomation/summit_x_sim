@@ -17,8 +17,9 @@
   <author email="rguzman@robotnik.es">Roberto Guzman</author>
   
   <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>summit_x_control</run_depend>
   <run_depend>summit_x_gazebo</run_depend>
-  <run_depend>summit_x_sim_bringup</run_depend>
+  <run_depend>summit_xl_sim_bringup</run_depend>
   <run_depend>summit_x_robot_control</run_depend>
 
   <export>
