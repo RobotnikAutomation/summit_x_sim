@@ -4,6 +4,14 @@ Changelog for package summit_x_sim
 
 Forthcoming
 -----------
+* 1.0.4
+* updated changelog
+* updated changelog
+* Update package.xml
+* deleted catkin_ignore
+* modified package.xml
+* Contributors: Carlos Villar, carlos3dx
+
 * updated changelog
 * Update package.xml
 * deleted catkin_ignore
