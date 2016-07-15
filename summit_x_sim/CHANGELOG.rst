@@ -2,8 +2,8 @@
 Changelog for package summit_x_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2016-07-15)
+------------------
 * 1.0.4
 * updated changelog
 * updated changelog

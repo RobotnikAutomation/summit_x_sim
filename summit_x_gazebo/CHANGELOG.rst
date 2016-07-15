@@ -2,8 +2,8 @@
 Changelog for package summit_x_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2016-07-15)
+------------------
 * updated changelog
 * Contributors: carlos3dx
 
