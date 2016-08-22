@@ -30,9 +30,14 @@ add_dependencies(summit_x_robot_control robotnik_msgs_generate_messages_cpp)
 add_dependencies(summit_x_robot_control_vrep robotnik_msgs_generate_messages_cpp)
 
 target_link_libraries(summit_x_robot_control 
-   ${catkin_LIBRARIES}
+  ${catkin_LIBRARIES}
 )
 
 target_link_libraries(summit_x_robot_control_vrep
-   ${catkin_LIBRARIES}
+  ${catkin_LIBRARIES}
+)
+
+install(
+  DIRECTORY launch config
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
