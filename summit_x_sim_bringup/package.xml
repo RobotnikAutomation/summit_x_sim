@@ -1,9 +1,9 @@
 <package>
-  <name>summit_xl_sim_bringup</name>
+  <name>summit_x_sim_bringup</name>
   <version>1.0.0</version>
   <description>
-		Launch files for Summit XL simulation.
-	</description>
+    Launch files for Summit-X simulation.
+  </description>
   <maintainer email="cvillar@robotnik.es">Carlos Villar</maintainer>
   <maintainer email="rguzman@robotnik.es">Roberto Guzman</maintainer>
   <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
@@ -18,15 +18,9 @@
   
   <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>roslaunch</build_depend>
-  <build_depend>gazebo_ros</build_depend>
-  <build_depend>summit_xl_control</build_depend>  
-  <build_depend>summit_xl_description</build_depend>
-  <build_depend>summit_xl_pad</build_depend>
-  <build_depend>twist_mux</build_depend>  
   <run_depend>gazebo_ros</run_depend>
-  <run_depend>summit_xl_control</run_depend>  
-  <run_depend>summit_xl_description</run_depend>
+  <run_depend>summit_x_control</run_depend>  
+  <run_depend>summit_x_description</run_depend>
   <run_depend>summit_xl_pad</run_depend>
   <run_depend>twist_mux</run_depend>   
 
