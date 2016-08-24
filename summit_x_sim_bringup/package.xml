@@ -1,6 +1,6 @@
 <package>
   <name>summit_x_sim_bringup</name>
-  <version>1.0.6</version>
+  <version>1.1.0</version>
   <description>
     Launch files for Summit-X simulation.
   </description>
