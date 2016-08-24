@@ -4,6 +4,11 @@ Changelog for package summit_x_sim_bringup
 
 Forthcoming
 -----------
+* modified version number
+* updated changelog
+* Creating package summit_x_sim_bringup
+* Contributors: Jorge Arino, carlos3dx
+
 * Creating package summit_x_sim_bringup
 * Contributors: Jorge Arino
 

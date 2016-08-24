@@ -4,6 +4,10 @@ Changelog for package summit_x_robot_control
 
 Forthcoming
 -----------
+* updated changelog
+* Adds install rules
+* Contributors: Jorge Arino, carlos3dx
+
 * Adds install rules
 * Contributors: Jorge Arino
 

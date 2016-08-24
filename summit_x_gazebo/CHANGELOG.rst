@@ -4,6 +4,11 @@ Changelog for package summit_x_gazebo
 
 Forthcoming
 -----------
+* updated changelog
+* Creating package summit_x_sim_bringup
+* Adds install rules
+* Contributors: Jorge Arino, carlos3dx
+
 * Creating package summit_x_sim_bringup
 * Adds install rules
 * Contributors: Jorge Arino
