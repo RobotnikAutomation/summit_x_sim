@@ -2,8 +2,8 @@
 Changelog for package summit_x_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.7 (2016-08-24)
+------------------
 * modified version number
 * updated changelog
 * Creating package summit_x_sim_bringup

@@ -2,8 +2,8 @@
 Changelog for package summit_x_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.7 (2016-08-24)
+------------------
 * updated changelog
 * Contributors: carlos3dx
 
