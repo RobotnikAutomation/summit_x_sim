@@ -2,6 +2,12 @@
 Changelog for package summit_x_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Creating package summit_x_sim_bringup
+* Adds install rules
+* Contributors: Jorge Arino
+
 1.0.6 (2016-07-19)
 ------------------
 
