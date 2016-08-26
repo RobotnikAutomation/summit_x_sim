@@ -2,8 +2,8 @@
 Changelog for package summit_x_robot_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.8 (2016-08-26)
+------------------
 * 1.0.7
 * updated changelog
 * updated changelog
