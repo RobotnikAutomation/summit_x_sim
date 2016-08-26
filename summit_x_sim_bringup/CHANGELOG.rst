@@ -2,6 +2,11 @@
 Changelog for package summit_x_sim_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* summit_xl_sim_bringup: removing build dependencies
+* Contributors: Jorge Arino
+
 1.1.0 (2016-08-24)
 ------------------
 * modified version number
