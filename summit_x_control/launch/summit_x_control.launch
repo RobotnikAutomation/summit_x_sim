@@ -11,15 +11,11 @@
     joint_brw_velocity_controller
     joint_flw_velocity_controller
     joint_frw_velocity_controller
-    joint_blw_position_controller
-    joint_brw_position_controller
-    joint_flw_position_controller
-    joint_frw_position_controller
     joint_scissor_position_controller
-    joint_pan_position_controller
-    joint_tilt_position_controller
     joint_read_state_controller"
   />
+  
+
 
   
 
