@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <launch>
+	
+	<!-- Load joint controller configurations from YAML file to parameter server -->
+  <rosparam file="$(find summit_x_control)/config/summit_x_control.yaml" command="load"/>
 
 <!-- load the controllers -->
   <node name="controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
@@ -18,8 +21,7 @@
     joint_read_state_controller"
   />
 
-  <!-- Load joint controller configurations from YAML file to parameter server -->
-  <rosparam file="$(find summit_x_control)/config/summit_x_control.yaml" command="load"/>
+  
 
   <!-- once the joint_state is published, run the robot_state_publisher, the namespace has to be adapted --> 
   <!-- convert joint states to TF transforms for rviz, etc -->
